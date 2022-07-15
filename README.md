@@ -6,3 +6,5 @@ ydhwang@github.com과 연동하여 프로그램 개발 및 테스트
 
 git conflict 해결 방법 테스트
 
+push 기능 테스트 추가
+
