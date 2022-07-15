@@ -8,6 +8,7 @@ public class HomeController {
 
     @GetMapping
     public String index() {
+        // push 기능 테스트
         return "index";
     }
 }
